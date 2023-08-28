@@ -1,0 +1,16 @@
+[
+{
+  "modid": "parkour",
+  "name": "Parkour",
+  "description": "This mod allows you to jump from the edge of the block at the last moment",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

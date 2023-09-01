@@ -1,8 +1,8 @@
 {
   "required": true,
   "minVersion": "0.7",
-  "package": "de.vepexlegit.parkour.mixins",
-  "refmap": "mixins.parkour.refmap.json",
+  "package": "de.vepexlegit.parkourdebug.mixins",
+  "refmap": "mixins.parkourdebug.refmap.json",
   "compatibilityLevel": "JAVA_8",
   "client": [
     "MixinEntityPlayer"

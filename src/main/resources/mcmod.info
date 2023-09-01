@@ -1,8 +1,8 @@
 [
 {
-  "modid": "parkour",
-  "name": "Parkour",
-  "description": "This mod allows you to jump from the edge of the block at the last moment",
+  "modid": "parkourdebug",
+  "name": "ParkourDebug",
+  "description": "This mod is an addition to the main parkour mod.\nThis add-on will help you turn parkour on or off",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
